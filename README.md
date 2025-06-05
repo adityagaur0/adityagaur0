@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p align="left"> <a href="https://www.linkedin.com/in/adityakumargaur0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/adityakumargaur/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aditya" /></a> </p>
 <p align="left"> <a href="https://leetcode.com/adityakumargaur0/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Aditya"/></a> </p>
 
 <!-- ![flask](https://github.com/adityagaur0/adityagaur0/assets/112656570/b5ba5076-de80-4c5b-93a9-473458f3546f)
