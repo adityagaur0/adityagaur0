@@ -26,8 +26,96 @@
  -->
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/adityagaur0/adityagaur0/assets/112656570/15ce78a3-4006-4002-b26e-c862f745fb30" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
-<!-- <!-- ![flask](https://github.com/adityagaur0/adityagaur0/assets/112656570/15ce78a3-4006-4002-b26e-c862f745fb30) -->
+<!-- Languages -->
+<div style="display: flex; align-items: flex-start; align: center">
+### 🛠️ Languages and Tools
+<h3 align="left">🛠️ Languages and Tools:</h3>
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"><br/>Flutter
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=dart" width="40" height="40"><br/>Dart
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40" height="40"><br/>Kotlin
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"><br/>Firebase
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" width="40" height="40"><br/>BLoC
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" width="40" height="40"><br/>Riverpod
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"><br/>SQLite
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=figma" width="40" height="40"><br/>Figma
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40"><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40"><br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40"><br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40"><br/>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"><br/>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"><br/>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"><br/>MySQL
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40" height="40"><br/>AWS
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40"><br/>Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40"><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40"><br/>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40" height="40"><br/>Android Studio
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40"><br/>VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40" height="40"><br/>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=windows" width="40" height="40"><br/>Windows
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40" height="40"><br/>Python
+    </td>
+  </tr>
+</table>
+
+
+</div>
 <br><be> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagaur0&" alt="adityagaur0" /></p>
