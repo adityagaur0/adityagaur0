@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👋 Hi there! I'm a BTech student with expertise in **C++, Flutter, Firebase, Python, Java, SQL, JavaScript, CSS, HTML.** My passion for creating high-quality user experiences drives me to specialize in building dynamic and scalable applications.
+- Cross Platform App Engineer with 2 years of experience in software engineering; app development, testing and release. A disciple of the Hacker Mindset with a passion for providing innovative, technological solutions to hard problems. Hack the Planet!
 
-- 🚀 I'm confident in my ability to make a valuable contribution to any organization and excel as a valuable asset to the team.
+- I'm confident in my ability to make a valuable contribution to any organization and excel as a valuable asset to the team.
 
-- 👨‍💻 Currently, I'm exploring new technologies and building exciting projects in my free time.
+- Reach me at **https://www.linkedin.com/in/adityakumargaur/**
 
-- 💬 Let's connect and collaborate on some cool projects together!
-
-- 📫 How to reach me **adityakumargaur0@gmail.com**
+- Reach me at **adityakumargaur0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
